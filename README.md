@@ -1,1 +1,2 @@
 # oracle_db_repo
+abcdefgijklmnopqrstuvwxyz
